@@ -7253,7 +7253,7 @@ delete="mkdir"
 
 
 echo ""
-$chutiya /$HOME/.termux
+$chutiya $HOME/.termux
 echo "extra-keys = [['/','cd','$','*','UP','chmod','pkg install'],['exit','CTRL','bash','LEFT','DOWN','RIGHT','y']]" >> $HOME/.termux/termux.properties
 clear
 #maja aya mujha ya bana ma kuch nhi mila ga tumha kyo ke ya fack ha ..
@@ -7265,4 +7265,3 @@ cd
 #tum pagal ho maja la raha hu 
 #koi bhee button add nhi hoga  
 clear
-exit
