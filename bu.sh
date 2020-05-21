@@ -15,7 +15,7 @@ echo "
 
 
 
-
+pkg install mpv -y
 
 
 
